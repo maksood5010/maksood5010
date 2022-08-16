@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maksood5010
-- 👀 I’m interested in android java and kotlin
-- 🌱 I’m currently learning ...flutter
-- 💞️ I’m looking to collaborate on android app developments
+- 👀 interested in android java and kotlin
+- 🌱 currently learning ...flutter
+- 💞️  looking to collaborate on web3 developments
 
 <!---
 maksood5010/maksood5010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
