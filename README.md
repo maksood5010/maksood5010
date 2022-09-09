@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maksood5010
-- 👀 interested in android java and kotlin
-- 🌱 currently learning ...flutter
+- 👀 interested in android blockchain
+- 🌱 currently learning ...web 3
 - 💞️  looking to collaborate on web3 developments
 
 <!---
